@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/farc/Desktop/ROS-KEP/catkin_ws/install/setup.sh

@@ -1,0 +1,5 @@
+ros_basics
+/home/farc/Desktop/ROS-KEP/catkin_ws/devel/.private/ros_basics/cmake.lock /home/farc/Desktop/ROS-KEP/catkin_ws/devel/./cmake.lock
+/home/farc/Desktop/ROS-KEP/catkin_ws/devel/.private/ros_basics/share/ros_basics/cmake/ros_basicsConfig.cmake /home/farc/Desktop/ROS-KEP/catkin_ws/devel/share/ros_basics/cmake/ros_basicsConfig.cmake
+/home/farc/Desktop/ROS-KEP/catkin_ws/devel/.private/ros_basics/share/ros_basics/cmake/ros_basicsConfig-version.cmake /home/farc/Desktop/ROS-KEP/catkin_ws/devel/share/ros_basics/cmake/ros_basicsConfig-version.cmake
+/home/farc/Desktop/ROS-KEP/catkin_ws/devel/.private/ros_basics/lib/pkgconfig/ros_basics.pc /home/farc/Desktop/ROS-KEP/catkin_ws/devel/lib/pkgconfig/ros_basics.pc

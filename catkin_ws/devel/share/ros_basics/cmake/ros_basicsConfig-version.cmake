@@ -1,0 +1,1 @@
+/home/farc/Desktop/ROS-KEP/catkin_ws/devel/.private/ros_basics/share/ros_basics/cmake/ros_basicsConfig-version.cmake
