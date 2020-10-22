@@ -77,7 +77,7 @@ To make sure your workspace is properly overlayed by the setup script, make sure
 
 ```bash
 echo $ROS_PACKAGE_PATH
-> /home/youruser/catkin_ws/src:/opt/ros/kinetic/share
+> /home/youruser/catkin_ws/src:/opt/ros/melodic/share
 ```
 
 That's it :)
