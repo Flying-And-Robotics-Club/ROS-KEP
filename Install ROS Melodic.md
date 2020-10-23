@@ -8,7 +8,7 @@
 
 There are 2 ways to go about this...
 
-* Install Ubuntu on your system by Dual Boot or as your Primary OS.
+* Install Ubuntu on your system by Dual Boot (recommended) or as your Primary OS.
 * Install Ubuntu in a VM on your Windows / MAC Machine.
 
 **Either way, [here](https://releases.ubuntu.com/18.04.5/?_ga=2.151950462.655073189.1602001766-309397952.1602001766) is the link to the official download site.**
@@ -19,7 +19,7 @@ There are 2 ways to go about this...
 
 ## Step 1 - Install ROS Melodic
 
-**Head over to the [official documentation](http://wiki.ros.org/melodic/Installation/Ubuntu) adn follow the steps for installing *Desktop-Full Install Version od ROS Melodic*.**
+**Head over to the [official documentation](http://wiki.ros.org/melodic/Installation/Ubuntu) and follow the steps for installing *Desktop-Full Install Version od ROS Melodic*.**
 
 > The commands for the same are given below.
 
