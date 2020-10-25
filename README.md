@@ -9,5 +9,5 @@ ROS KEP Conducted by FARC in collaboration with RoboCon - 2020
 > Day 1  
 > [Introducing new terms and seeing the power of ROS](https://drive.google.com/file/d/1tgAis0JBvSYxp3FoOYPy4BqRG2O1wXnr/view?usp=sharing)
 
-> Day 2
+> Day 2   
 > [ROS ECOSYSTEM](https://drive.google.com/file/d/1Hq3cfe1btlRybJjaJsG0Oh_dpNWpzdFz/view?usp=sharing )
