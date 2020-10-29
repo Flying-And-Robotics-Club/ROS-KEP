@@ -45,7 +45,7 @@ source ~/.bashrc
 ```
 
 ```bash
-sudo apt install python-rosdep python-rosinstall python-rosinstall-generator python-wstool build-essential python3-catkin-tools
+sudo apt install python-rosdep python-rosinstall python-rosinstall-generator python-wstool build-essential python-catkin-tools
 ```
 
 ```bash
