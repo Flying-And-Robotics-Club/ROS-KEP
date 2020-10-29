@@ -14,3 +14,6 @@ ROS KEP Conducted by FARC in collaboration with RoboCon - 2020
 
 > Day 3  
 > [ROS Nodes and Terminal](https://drive.google.com/file/d/1D7AzojVqL5t4_L5wxGoSYPPAN1Qmdy3_/view?usp=sharing)
+
+> Day 4   
+> [ROS Publisher and Subscriber](https://drive.google.com/file/d/1y1k4_2Ll--X4XDAyrgLnpQZB8nr-RQwU/view?usp=sharing)
