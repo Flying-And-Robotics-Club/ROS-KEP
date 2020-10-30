@@ -1,4 +1,4 @@
-> Here is the code for the publisher we wrote on Day 5. Visit [publisher_code.md](./publisher_code) file to see how to create a publisher and learn the basics.
+> Here is the code for the publisher we wrote on Day 5. Visit [publisher_code.md](./publisher_code.md) file to see how to create a publisher and learn the basics.
 
 ```python
 #!/usr/bin/env python
