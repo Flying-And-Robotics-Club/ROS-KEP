@@ -1,22 +1,11 @@
 # ROS-KEP
 ROS KEP Conducted by FARC in collaboration with RoboCon - 2020
 
-## Week 1
-> This branch has packages relavant to week 1 only
+## Week 2
+> This branch has packages relavant to week 2 only
 
 ## Session Recordings
 
 > Day 1  
-> [Introducing new terms and seeing the power of ROS](https://drive.google.com/file/d/1tgAis0JBvSYxp3FoOYPy4BqRG2O1wXnr/view?usp=sharing)
-
-> Day 2   
-> [ROS ECOSYSTEM](https://drive.google.com/file/d/1Hq3cfe1btlRybJjaJsG0Oh_dpNWpzdFz/view?usp=sharing )
-
-> Day 3  
-> [ROS Nodes and Terminal](https://drive.google.com/file/d/1D7AzojVqL5t4_L5wxGoSYPPAN1Qmdy3_/view?usp=sharing)
-
-> Day 4   
-> [ROS Publisher and Subscriber](https://drive.google.com/file/d/1y1k4_2Ll--X4XDAyrgLnpQZB8nr-RQwU/view?usp=sharing)
-
-> Day 5   
-> [Writing a Circle Bot](https://drive.google.com/file/d/19P3IJFm6DFhb0XFDd1IUiTKbfMRNoNJj/view?usp=sharing)
+> [Introducing Gazebo and Rviz - Part 1](https://drive.google.com/file/d/14snhYYRX-81CIXKAXqVo0V-7mM3mmLQG/view?usp=sharing)
+> [Introducing Gazebo and Rviz - Part 2](https://drive.google.com/file/d/1P2YsxdEAtNAeBk6-I2q07BK9Ju75uNir/view?usp=sharing)
