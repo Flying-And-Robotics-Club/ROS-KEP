@@ -12,3 +12,7 @@ ROS KEP Conducted by FARC in collaboration with RoboCon - 2020
 > Day 2  
 > [Introduction to Image Segmentation](https://drive.google.com/file/d/1sZysK3vv3Rqgk989Ta7SfYrnHxaM7FkR/view?usp=sharing)  
 > [PPT with Resources](https://github.com/Flying-And-Robotics-Club-NITK/ROS-KEP/blob/week_3/PPTs/W3D2.pptx)
+
+> Day 3
+> [OpenCV + ROS Integration](https://drive.google.com/file/d/17XWAe4OgGtSfgmkzLDTk_dQu20l3lEyd/view?usp=sharing)
+> [Link to PPT](https://github.com/Flying-And-Robotics-Club-NITK/ROS-KEP/blob/week_3/PPTs/W3D3.pptx)
